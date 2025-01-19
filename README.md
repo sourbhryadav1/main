@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and creator, expl
 ## 🌟 About Me
 
 - 🎓 **ECE Student** at [IIIT Dharwad], currently in my second year.
-- 🔍 **Fields of Interest:** AI.
+- 🔍 **Fields of Interest:** Machine Learning but development for sure haha.
 - 💡 **Skills:** Python, SQL, Excel, HTML, CSS, and web-development.
 - 🎵 Passionate about combining music and technology to create innovative solutions.
 - 🌆 Living in **Delhi**, balancing college life in **Dharwad, Karnataka**.
