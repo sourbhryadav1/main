@@ -53,4 +53,8 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and creator, expl
 
 ---
 
+![Funny GIF](https://yourgifimageurl.com)
+
+---
+
 ### Thank you for visiting my GitHub! Feel free to explore my repositories, and let's create something amazing together!
