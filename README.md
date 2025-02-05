@@ -17,6 +17,8 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and creator, expl
 ## 🚀 My Projects
 
 ### 🔧 **Web Development:**
+- 🏠 ShareSpace – A platform that helps students find flats, reliable landlords, and compatible roommates based on shared interests and locality preferences. It includes features like a Find Roommates page, a chat system, and profile customization with Firestore 
+   integration.
 - 🌐 Building a **Connection Website for IIIT Students** to facilitate collaboration, updates, and interactions.
 
 ### 🤖 **AI and Embedded Systems:**
