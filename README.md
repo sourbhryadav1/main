@@ -51,8 +51,6 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and creator, expl
 
 - 💼 [LinkedIn](https://linkedin.com/in/sourbhryadav1)  
 - 📧 **Email:** sourbhr12@gmail.com
-- 🌟 [GitHub](https://github.com/sourbhryadav1)
-
 ---
 
 ![Funny GIF](https://img1.picmix.com/output/stamp/normal/8/3/8/4/1884838_7a563.gif)
