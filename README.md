@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and creator, expl
 
 ## 💬 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/sourbhryadav1)  
+- 💼 [LinkedIn]([https://linkedin.com/in/sourbhryadav1](https://www.linkedin.com/in/sourbhryadav/))  
 - 📧 **Email:** sourbhr12@gmail.com
 ---
 
